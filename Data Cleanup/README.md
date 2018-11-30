@@ -1,6 +1,6 @@
 # Preparing for Functional Enrichment 
 Once edgeR is complete, the program would have created an excel file containing all information pertaining to DEG’s. A Mastersheet must be created to organize the various timepoints of the experiment and it must include an rpkm average for each day. After this is complete, transfer all information to a different workbook that has filtered values of the data. These include:
-- rpkm average ≥ 5
+- rpkm average 
 - fdr ≤ 0.05
 - p-value ≤ 0.05
 - logFC ≥ 1 OR ≤ -1
