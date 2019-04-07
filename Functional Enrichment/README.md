@@ -4,7 +4,6 @@ Functional Enrichment is used to cluster genes that are associated with specific
 ```
 1. Save an excel file with 2 columns (gene name and -logFC)
 2. Log on to MetaCore and select Experiments
-3. Select Andrea
 4. Upload excel file under upload
 5. Upload experiments with gene or protein ID's
 6. Upload file as .xls
