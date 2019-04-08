@@ -1,6 +1,6 @@
 ## ImmQuant
 ### 1. Download ImmQuant from http://csgi.tau.ac.il/ImmQuant/
-- Will use the ImmQuant.jar file in the future
+
 ### 2. Create an input file
 Columns required are:
 ```
@@ -9,30 +9,20 @@ Control(s)
 Other groups
 ```
 Save the file as as .txt (Tab Delimited Text) file
+See input.txt file as example
+
 ### 3. Using the program
 - Open the ImmQuant.jar program and follow the commands down below
 ```
-1. Run
-2. Run deconvolution
+1. Click "Run"
+2. Click "Run deconvolution"
 3. Browse/select input file
 4. Select Human
-5. Choose Next
-6. Select DMAP or IRIS depending on the project
-7. Select Perform calculation using control group
-8. Select Choose by Column and input the control column
-9. Choose Next
-10. Name the filename (+DMAP or +IRIS)
-11. Run
-12. Click the white box symbol in the center
-13. Select Choose by Column Nmbers
-14. First option should be (Control Columns) and second option should be (Other Groups)
-15. Select generate
-```
-### Generating Output File
-```
-1. Run DMAP or IRIS as normal
-2. Select Output File tab
-3. Enter desired file name followed by DMAP or IRIS
-4. Run
-5. File should be in selected area containing raw numbers
+5. Click "Next"
+6. Select DMAP or IRIS (both are based on different databases) in the Deconvolution properties tab. IRIS is commonly used
+7. Select "Perform calculation using a control group"
+8. Select "Choose by Column numbers" and type in the column numbers of control group (i.e. 1-2). Note Gene ID does not count as column 1
+9. Click "Next"
+10. For Output file, name output data. Click "browse" and select directory where output data will be saved.
+11. Click "Run"
 ```
