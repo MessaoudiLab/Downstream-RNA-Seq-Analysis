@@ -2,12 +2,7 @@
 ### 1. Download ImmQuant from http://csgi.tau.ac.il/ImmQuant/
 
 ### 2. Create an input file
-Columns required are:
-```
-Gene
-Control(s)
-Other groups
-```
+Input file should include gene identifier (i.e. hgnc symbol) and RPKM values for each gene and each group/sample to be analyzed. 
 Save the file as as .txt (Tab Delimited Text) file
 See input.txt file as example
 
