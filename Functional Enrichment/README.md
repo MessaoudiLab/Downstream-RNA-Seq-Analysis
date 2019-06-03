@@ -18,6 +18,14 @@ Functional Enrichment is used to cluster genes that are associated with specific
 14. Save workflow (end name of workflow with enrichment analysis)
 15. Get report
 ```
+
+### Download and Clean up a MetaCore Export
+```
+1. In Metacore, download Functional enrichment term by clicking on the green number to the right
+2. To clean up, list all items in the column, Input_ID, in ascending order. 
+3. Copy Input_ID column and Fold change column into a new tab in excel
+4. Remove duplicates
+
 ## MetaScape
 Follow the commands down below
 ```
@@ -30,4 +38,14 @@ Follow the commands down below
 7. Select analysis report page
 8. Select all in one zip file
 9. Rename zip file to desired name
+```
+
+##EnrichR
+```
+1. Go to website:https://amp.pharm.mssm.edu/Enrichr/
+2. Copy an paste list of genes (hgnc symbol) and click submit
+3. Click "Ontologies" on the top
+4. Click "GO Biological Process"
+5. Click "Table"
+6. Click "Export entries into table"
 ```
