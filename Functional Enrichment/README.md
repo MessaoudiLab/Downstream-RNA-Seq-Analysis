@@ -25,6 +25,7 @@ Functional Enrichment is used to cluster genes that are associated with specific
 2. To clean up, list all items in the column, Input_ID, in ascending order. 
 3. Copy Input_ID column and Fold change column into a new tab in excel
 4. Remove duplicates
+```
 
 ## MetaScape
 Follow the commands down below
