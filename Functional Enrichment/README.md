@@ -3,7 +3,7 @@
 Functional Enrichment is used to cluster genes that are associated with specific biological pathways. 
 ```
 1. Create an excel file (as .xls) with 2 columns: 1st containing the hgnc or gene ID and 2nd containing the fold change
-2. Log on to MetaCore (https://portal.genego.com/cgi/data_manager.cgi); username: ucir-messaoudi; password: CrapweaseL1!! 
+2. Log on to MetaCore (https://portal.genego.com/cgi/data_manager.cgi) 
 3. Click "Upload"
 4. Click "Upload experiments with Gene or Protein IDs"
 5. Choose file and click Next
